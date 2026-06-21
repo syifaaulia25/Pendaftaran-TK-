@@ -8,16 +8,16 @@ Sistem pakar berbasis web yang dirancang untuk memonitor dan mengevaluasi perkem
 - **Database:** MySQL
 - **Frontend:** Bootstrap, SweetAlert2, FontAwesome
 
-## 🚀 Key Features
+## Key Features
 - **Sistem Pakar:** Implementasi algoritma *Forward Chaining* untuk menentukan kategori tumbuh kembang anak berdasarkan input gejala/perilaku.
 - **Manajemen Data:** CRUD (Create, Read, Update, Delete) untuk data murid dan laporan perkembangan.
 - **User-Friendly UI:** Antarmuka yang responsif dan mudah digunakan oleh tenaga pendidik.
 
-## 👥 Project Role
+## Project Role
 Sebagai Full-Stack Developer dalam tim, saya bertanggung jawab untuk:
 - Melakukan *requirement gathering* melalui wawancara langsung dengan pihak TK.
 - Merancang dan mengimplementasikan logika sistem pakar menggunakan *Forward Chaining*.
 - Mengembangkan antarmuka aplikasi agar sesuai dengan kebutuhan operasional guru.
 
-## 📝 License
+## License
 Proyek ini bersifat open-source untuk tujuan pembelajaran.
