@@ -2,7 +2,7 @@
 
 Sistem pakar berbasis web yang dirancang untuk memonitor dan mengevaluasi perkembangan anak di lingkungan TK. Proyek ini dikembangkan untuk memfasilitasi guru dalam mendokumentasikan serta menganalisis tumbuh kembang siswa secara sistematis.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Framework:** CodeIgniter 3
 - **Language:** PHP
 - **Database:** MySQL
